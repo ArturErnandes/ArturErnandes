@@ -1,5 +1,3 @@
-<!-- PROFILE README for ArturErnandes -->
-
 <h1> Hi there, I'm <a href="https://t.me/aToTheStars" target="_blank">Artur</a>  </h1>
 
 <h3 align="left"> 
@@ -11,12 +9,17 @@
 </p>
 
 
-
+<h3 align="left">Top languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,postgres,fastapi,docker,figma,ai,sketchup" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5" />
 </p>
 
-## 📊 GitHub Stats
+<h3 align="left">Common skills</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,figma,ai,sketchup&perline=6" />
+</p>
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArturErnandes&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -25,7 +28,7 @@
 
 ---
 
-## 🔥 Streak
+<h2>🔥 Streak</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArturErnandes&theme=tokyonight&hide_border=true" />
 </p>
