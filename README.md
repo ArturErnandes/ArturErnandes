@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="left"> 
-  Student of the <i>Moscow Aviation Institute</i>, Department 
+  Student of the <i>Moscow Aviation Institute</i><br/>Department 
   <a href="https://institutes.mai.ru/control/307/" target="_blank"><b>307</b></a> 
   <i>"Digital Technologies and Information Systems"</i>
 </h3>
