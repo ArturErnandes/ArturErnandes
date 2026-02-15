@@ -22,7 +22,7 @@
 
 <h3 align="left">Common skills</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,figma,ai,sketchup" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,figma,ai,blender,sketchup" />
 </p>
 
 <h3 align="center">Streak</h3>
